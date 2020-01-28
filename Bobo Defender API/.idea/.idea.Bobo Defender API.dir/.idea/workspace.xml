@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b55c36ff-d35f-45ca-98af-d402896661e9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/api/models/levelModel.js" />
+        <option value="$PROJECT_DIR$/api/controllers/authenticationController.js" />
+        <option value="$PROJECT_DIR$/api/routes/authenticationRoute.js" />
+        <option value="$PROJECT_DIR$/api/models/userModel.js" />
+        <option value="$PROJECT_DIR$/api/controllers/controller.js" />
+        <option value="$PROJECT_DIR$/api/middleware/tokenAuthenticator.js" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/api/routes/routes.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Vver2X7Dwd8Aj13Vc8FgVNGtTt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.13.0" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b55c36ff-d35f-45ca-98af-d402896661e9" name="Default Changelist" comment="" />
+      <created>1578138192310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578138192310</updated>
+      <workItem from="1578138195952" duration="4215000" />
+      <workItem from="1578149659964" duration="8641000" />
+      <workItem from="1578226899927" duration="9535000" />
+      <workItem from="1578332219320" duration="4221000" />
+      <workItem from="1578343234582" duration="2753000" />
+      <workItem from="1578387915866" duration="4310000" />
+      <workItem from="1578466017112" duration="5839000" />
+      <workItem from="1578985465544" duration="1104000" />
+      <workItem from="1579206901700" duration="1915000" />
+      <workItem from="1580228910776" duration="4311000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state x="552" y="184" key="#Inspection_severity" timestamp="1578138354267">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="184" key="#Inspection_severity/0.0.1920.1050@0.0.1920.1050" timestamp="1578138354267" />
+    <state x="461" y="168" width="1212" height="713" key="SettingsEditor" timestamp="1578139397671">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="168" width="1212" height="713" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1578139397671" />
+  </component>
+</project>

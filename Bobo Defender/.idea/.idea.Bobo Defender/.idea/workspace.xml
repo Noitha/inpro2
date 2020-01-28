@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1001ba8c-6a4a-4c19-a8d5-6994aeff4b8a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Bobo Defender" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Menus/MenuNavigation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Menus/Menu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Gameplay/Crystal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Gameplay/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Gameplay/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Bobo Defender/Scripts/GameState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EF28F193-EAB6-4E49-B44B-3FB27EAB4F75/83/6deda9d3/IEnumerator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Bobo Defender/Scripts/LevelController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Gameplay/EnemyData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Menus/SkinSelectionMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Bobo Defender/Scripts/InitApplication.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D195DA47-F292-4AA6-AB1F-FC82F421F850/57/0682663d/IEnumerator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Gameplay/Spawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Menus/LoginMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Gameplay/EnemySpawnInformation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Menus/InGameMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Enemy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Menus/RegisterMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Vendor/AstarPathfindingProject/Core/AI/Seeker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Menus/EndGameMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Menus/MainMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Menus/LevelMenu.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Authentication/Login.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/GamePlay/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/GamePlay/Crystal.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Player/Controls.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Player/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/GamePlay/SpeedBoost.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Menu/SkinSelection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Controls.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/EnemySpawnInformation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Form.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/SpawnController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/SpeedBoost.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/MenuName.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Authentication.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/ForgotPassword.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/MenuNavigation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Login.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Register.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/SkinSelection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/LevelMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/MainMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/SkinSelectionMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/InGameMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/RegisterMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/LoginMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Menu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/ChargeButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/EnemyData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Spawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Crystal.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Menus/MenuNavigation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Menus/InGameMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Gameplay/EnemySpawnInformation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Gameplay/EnemyData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Gameplay/ChargeButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Menus/SkinSelectionMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/InitApplication.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Menus/Menu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Gameplay/Crystal.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Gameplay/Spawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Menus/LevelMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Menus/EndGameMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Menus/RegisterMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Gameplay/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/LevelController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Gameplay/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Menus/LoginMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/GameState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bobo Defender/Scripts/Menus/MainMenu.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TfVIQ9OvTBKF9HbGHaYesanSDK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1001ba8c-6a4a-4c19-a8d5-6994aeff4b8a" name="Default Changelist" comment="" />
+      <created>1573851057827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573851057827</updated>
+      <workItem from="1573851061107" duration="639000" />
+      <workItem from="1574270758312" duration="1224000" />
+      <workItem from="1574358029933" duration="6608000" />
+      <workItem from="1576149606044" duration="601000" />
+      <workItem from="1576173504137" duration="1672000" />
+      <workItem from="1577975752577" duration="7361000" />
+      <workItem from="1578058177520" duration="7185000" />
+      <workItem from="1578138847909" duration="6798000" />
+      <workItem from="1578149669385" duration="4966000" />
+      <workItem from="1578226786733" duration="8319000" />
+      <workItem from="1578332037281" duration="6378000" />
+      <workItem from="1578343262833" duration="2875000" />
+      <workItem from="1578685471776" duration="9000" />
+      <workItem from="1578735060134" duration="10326000" />
+      <workItem from="1578821668839" duration="9659000" />
+      <workItem from="1579193433214" duration="11189000" />
+      <workItem from="1579875625037" duration="628000" />
+      <workItem from="1580136421377" duration="2808000" />
+      <workItem from="1580230308559" duration="3190000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state x="761" y="226" key="RiderGenerateDialog" timestamp="1578737709063">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="761" y="226" key="RiderGenerateDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1578737709063" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1578336398065">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1578336398065" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

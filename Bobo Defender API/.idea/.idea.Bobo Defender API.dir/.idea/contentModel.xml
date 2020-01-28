@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Noel\.Rider2019.3\config\javascript\nodejs\12.13.0\core-modules" t="IncludeRecursive" />
+    <e p="C:\Users\Noel\.Rider2019.3\config\javascript\nodejs\12.13.0\node-typings\node_modules\@types" t="IncludeRecursive" />
+    <e p="C:\Users\Noel\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Noel\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Noel\OneDrive\BTS-GP\INPRO2\Bobo Defender API" t="IncludeFlat">
+      <e p="node_modules\@types" t="IncludeRecursive">
+        <e p="babel-types" t="IncludeRecursive" />
+      </e>
+      <e p="node_modules\body-parser" t="IncludeRecursive" />
+      <e p="node_modules\dotenv" t="IncludeRecursive" />
+      <e p="node_modules\express" t="IncludeRecursive" />
+      <e p="node_modules\helmet" t="IncludeRecursive" />
+      <e p="node_modules\joi" t="IncludeRecursive" />
+      <e p="node_modules\jshint" t="IncludeRecursive" />
+      <e p="node_modules\jsonwebtoken" t="IncludeRecursive" />
+      <e p="node_modules\mongoose" t="IncludeRecursive" />
+      <e p="node_modules\pug" t="IncludeRecursive" />
+      <e p="node_modules\underscore" t="IncludeRecursive" />
+    </e>
+  </component>
+</project>
